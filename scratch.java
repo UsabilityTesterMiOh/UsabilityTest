@@ -8,7 +8,7 @@ class Scratch {
     }
 
     private static String printMe(){
-        return "Put what you want to print here.";
+        return "I Changed This!";
     }
 
     private static int mathMe(){
